@@ -1,4 +1,4 @@
-# co-every
+# co-every [![Build Status](https://travis-ci.org/purposeindustries/co-every.svg)](https://travis-ci.org/purposeindustries/co-every)
 
 ## Install
 
